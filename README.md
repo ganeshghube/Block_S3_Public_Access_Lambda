@@ -1,6 +1,6 @@
 # Block_S3_Public_Access_Lambda
 
-<h1 align="center">By using this script on aws lambda script  you can  block public access all s3 buckets as preventive measure an automated way </h1>
+### By using this script on aws lambda script  you can  block public access all s3 buckets as preventive measure an automated way.
 
 ### Create ssm parameter SSM Parameters
 To avoid exposing email addresses in a GitHub repository, this project is making the use of the following SSM parameters:
